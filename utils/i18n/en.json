@@ -1,0 +1,142 @@
+{
+  "me": {
+    "text": "Gude! I was born on 29.01.1996 in Aschaffenburg and I am in the process of making the web more beautiful and faster.\nLiving in Cologne-Ehrenfeld, studying again in Aachen and currently working at ShiftDigital."
+  },
+  "education": {
+    "title": "Education",
+    "milestones": [
+      {
+        "title": "FH Aachen | M. Eng. Information Systems Engineering",
+        "date": "since March 2022, Aachen"
+      },
+      {
+        "title": "FH Aachen | B. Sc. Computer Science",
+        "date": "September 2017 - February 2021, Aachen",
+        "text": "Bachelor of Science\nFocus: Software Engineering"
+      },
+      {
+        "title": "FOSBOS Aschaffenburg",
+        "date": "2012-2015, Aschaffenburg",
+        "text": "Technical Diploma\nFocus: technology, mathematics and natural sciences"
+      },
+      {
+        "title": "Realschule Bessenbach",
+        "date": "2008-2012, Bessenbach",
+        "text": "Medium Maturity\nFocus: mathematics and natural science"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "jobs": [
+      {
+        "name": "ShiftDigital",
+        "role": "Frontend Web Developer - Working student",
+        "date": "since December 2022, Bochum",
+        "tasks": [
+          "Further development of the Shift Studio frontend based on React",
+          "Design and implementation of an admin tool to monitor the instances and statistics of Shift Studio using Remix and Deno"
+        ]
+      },
+      {
+        "name": "Ambient",
+        "role": "Full Stack Web Developer - Working student",
+        "date": "April 2022 - December 2022, Cologne",
+        "tasks": [
+          "Implementation of various features in different code bases.",
+          "Fixing bugs on varied services"
+        ]
+      },
+      {
+        "name": "Mediaatrium",
+        "role": "Full Stack Developer",
+        "date": "February 2021 - March 2022, Laufach",
+        "tasks": [
+          "Front- and backend development using TypeScript in the context of various projects",
+          "Revision of the complete server-side infrastructure via Docker",
+          "Optimisation of internal technical processes"
+        ]
+      },
+      {
+        "name": "Curly UG",
+        "role": "Co-founder",
+        "date": "December 2019 - February 2021, Aachen",
+        "tasks": [
+          "Conception and partial implementation of a social food sharing platform with Golang and Flutter",
+          "Web development for own our website and various clients under Becurly"
+        ]
+      },
+      {
+        "name": "AStA FH Aachen",
+        "role": "Front- und Backend Web Developer - Werksstudent",
+        "date": "since November 2018, Aachen",
+        "tasks": [
+          "Development and maintenance of various systems in Node.js, Deno, Golang and Python",
+          "Conception and implementation of the housing exchange \"Zimmerfrei\" of the University of Bonn",
+          "Extension of the electronic semester ticket reimbursement"
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "sections": [
+      {
+        "title": "Programming languages",
+        "skills": ["JavaScript", "TypeScript", "Golang", "C++", "Python"]
+      },
+      {
+        "title": "Libraries and Frameworks",
+        "skills": [
+          "React",
+          "Next.js",
+          "Vue",
+          "Nuxt.js",
+          "Three.js",
+          "Node",
+          "Fastify",
+          "Nest.js",
+          "Deno",
+          "Oak",
+          "Fresh",
+          "Astro",
+          "Framer Motion",
+          "Tailwind CSS"
+        ]
+      },
+      {
+        "title": "Further knowledge",
+        "skills": [
+          "Linux",
+          "Docker",
+          "Kubernetes",
+          "Directus",
+          "Strapi",
+          "Traefik",
+          "Git",
+          "HTML",
+          "SCSS",
+          "SQL",
+          "NoSQL",
+          "German",
+          "English"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projects"
+  },
+  "contact": {
+    "title": "Contact",
+    "mail": "E-Mail",
+    "message": "Message",
+    "send": "Send",
+    "sent": "Thanks for the message!",
+    "failed": "Something went wrong :("
+  },
+  "footer": {
+    "imprint": "imprint",
+    "privacy": "privacy policy"
+  }
+}
