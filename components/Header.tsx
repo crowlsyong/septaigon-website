@@ -12,11 +12,11 @@ import Minilogo from "../components/Minilogo.tsx"
 
 export default function Header() {
   const menus = [
-    { name: "Ethics", href: "/", icon: <IconAlignBoxLeftMiddle class="w-5 h-5" />, color: "text-white" },
-    { name: "Impliment", href: "/components", icon: <IconSolutions class="w-5 h-5"/>, color: "text-blue-300" },
-    { name: "Solutions", href: "/audioplayerpage", icon: <IconBoxSeam class="w-5 h-5"/>, color: "text-pink-300" },
-    { name: "Pricing", href: "/audioplayerpage", icon: <IconPricing class="w-5 h-5"/>, color: "text-green-300" },
-    { name: "Contact", href: "/search", icon: <IconContact class="w-5 h-5"/>, color: "text-yellow-300" },
+    { name: "Ethics", href: "/ethics", icon: <IconAlignBoxLeftMiddle class="w-5 h-5" />, color: "text-white" },
+    { name: "Impliment", href: "/impliment", icon: <IconSolutions class="w-5 h-5"/>, color: "text-blue-300" },
+    { name: "Solutions", href: "/solutions", icon: <IconBoxSeam class="w-5 h-5"/>, color: "text-pink-300" },
+    { name: "Pricing", href: "/pricing", icon: <IconPricing class="w-5 h-5"/>, color: "text-green-300" },
+    { name: "Contact", href: "/contact", icon: <IconContact class="w-5 h-5"/>, color: "text-yellow-300" },
   ];
 
   return (

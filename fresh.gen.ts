@@ -9,8 +9,14 @@ import * as $2 from "./routes/_500.tsx";
 import * as $3 from "./routes/api/joke.ts";
 import * as $4 from "./routes/audioplayerpage.tsx";
 import * as $5 from "./routes/components.tsx";
-import * as $6 from "./routes/index.tsx";
-import * as $7 from "./routes/search.tsx";
+import * as $6 from "./routes/contact.tsx";
+import * as $7 from "./routes/ethics.tsx";
+import * as $8 from "./routes/getstarted.tsx";
+import * as $9 from "./routes/impliment.tsx";
+import * as $10 from "./routes/index.tsx";
+import * as $11 from "./routes/pricing.tsx";
+import * as $12 from "./routes/search.tsx";
+import * as $13 from "./routes/solutions.tsx";
 import * as $$0 from "./islands/AudioPlayer.tsx";
 import * as $$1 from "./islands/Contact.tsx";
 import * as $$2 from "./islands/Counter.tsx";
@@ -25,8 +31,14 @@ const manifest = {
     "./routes/api/joke.ts": $3,
     "./routes/audioplayerpage.tsx": $4,
     "./routes/components.tsx": $5,
-    "./routes/index.tsx": $6,
-    "./routes/search.tsx": $7,
+    "./routes/contact.tsx": $6,
+    "./routes/ethics.tsx": $7,
+    "./routes/getstarted.tsx": $8,
+    "./routes/impliment.tsx": $9,
+    "./routes/index.tsx": $10,
+    "./routes/pricing.tsx": $11,
+    "./routes/search.tsx": $12,
+    "./routes/solutions.tsx": $13,
   },
   islands: {
     "./islands/AudioPlayer.tsx": $$0,
